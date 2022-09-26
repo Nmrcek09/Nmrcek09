@@ -8,6 +8,6 @@
     $ python Prem.py
 # Cara Update :
     $ rm -rf Premium
-    $ git clone https://github.com/nmrcek/Premium
+    $ git clone https://github.com/nmrcek9/Premium
     $ cd Premium
     $ python Prem.py
